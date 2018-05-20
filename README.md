@@ -24,5 +24,7 @@ In the KVPairImpl.java I have implemented a dictionary were words are stored wit
 ![p5](https://user-images.githubusercontent.com/20777854/40274882-b43236e8-5bff-11e8-83a8-900a436e2772.png)
 
 Here's what storing looked like:
+![p6](https://user-images.githubusercontent.com/20777854/40275058-dd0eda0a-5c02-11e8-8379-9ce3dca9ec4a.png)
 
-And here's what the resulting has table looked like:
+And here's what the resulting hash table looked like(See how some indexes has more than one element):
+![p7](https://user-images.githubusercontent.com/20777854/40275060-e2592308-5c02-11e8-9c5b-ffcdfeb10057.png)
